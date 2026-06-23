@@ -8,7 +8,7 @@ Installing necessary packages: PyTorch > 1.1, opencv-python
 downloading testing dataset and moving it into ./Dataset/TestDataset/.
 downloading training/validation dataset and move it into ./Dataset/TrainDataset/.
 CoCOD8K can be download from [here](https://pan.quark.cn/s/5bdc87f4e0c0#/list/share) -->  Code: tdYx
-3.Training Configuration:
+3. Training Configuration:
 Assigning your costumed path, like --train_save and --train_path in train.py.
 Just enjoy it via run python train.py in your terminal.
 4. Testing Configuration:
