@@ -5,7 +5,7 @@ The training and testing experiments are conducted using PyTorch with a single G
 
 1. Prerequisites:
 
-Note that BBNet is only tested on Ubuntu OS with the following environments. It may work on other operating systems (i.e., Windows) as well but we do not guarantee that it will.
+Note that FRRNet is only tested on Ubuntu OS with the following environments. It may work on other operating systems (i.e., Windows) as well but we do not guarantee that it will.
 
 Installing necessary packages: PyTorch > 1.1, opencv-python
 
